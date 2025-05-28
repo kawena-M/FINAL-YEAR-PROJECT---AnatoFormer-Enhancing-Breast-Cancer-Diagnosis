@@ -1,0 +1,2 @@
+# FINAL-YEAR-PROJECT---AnatoFormer-Enhancing-Breast-Cancer-Diagnosis
+Developed an ROI-free breast cancer diagnosis system using deep learning.  Integrated AnatoFormer with LRE-Net for self-supervised anatomical feature extraction.  Employed MAE and MoCo for pretraining, improving BUS image classification.  Outperformed traditional CNNs and transformers on BUSI dataset for interpretability and accuracy.
